@@ -1,7 +1,7 @@
 # Gabriel Fonseca 
 
 
-## |👨‍💻 Desenvolvedor  backend| |🔄 Gestão Ágil| 
+## |👨‍💻 Desenvolvedor  Full Stack| |🔄 Gestão Ágil| 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Gabfonexe&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
